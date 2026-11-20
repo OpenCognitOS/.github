@@ -33,7 +33,7 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
     <td width="50%"><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/kosmos.jpg" alt="Kosmos" /><br /><b>Kosmos</b> — watch live who reads or edits which file</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/atlas.jpg" alt="Atlas" /><br /><b>Atlas</b> — your project as a brain map: which agent works in which area</td>
     <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
   </tr>
   <tr>
